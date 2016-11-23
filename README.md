@@ -1,8 +1,7 @@
 # test-example
 
-[![Build Status](https://coveralls.io/github/adamnie/test-example.svg)](https://travis-ci.org/adamnie/test-example)
-[![Coverage Status](https://coveralls.io/github/adamnie/test-example/badge.svg)](https://coveralls.io/github/adamnie/test-example)
-
+[![Build Status](https://travis-ci.org/adamnie/test-example.svg?branch=master)](https://travis-ci.org/adamnie/test-example)
+[![Coverage Status](https://coveralls.io/repos/github/adamnie/test-example/badge.svg?branch=master)](https://coveralls.io/github/adamnie/test-example?branch=master)
 A small example of how to test your Tornado app and display the current build
 status and test coverage inside the README file on GitHub.
 
